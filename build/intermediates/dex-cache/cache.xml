@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\agjackso\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\agjackso\AndroidStudioProjects\Jam2App1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_bd540ab8f6d45f8c7c2dfdcbaea76822ed2e0cba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\agjackso\AndroidStudioProjects\Jam2App3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7726041827cdd23c00b60bde26a988a3c779f785">
+        <dex dex="C:\Users\agjackso\AndroidStudioProjects\Jam2App3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9c21e3c36e7248de7f7a406dbf4fbadbabee8734\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\agjackso\AndroidStudioProjects\Jam2App3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\agjackso\AndroidStudioProjects\Jam2App3\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_95ef277e27470787d7f74928495bb8f1b8d0014e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\agjackso\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\agjackso\AndroidStudioProjects\Jam2App2\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_bd540ab8f6d45f8c7c2dfdcbaea76822ed2e0cba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\agjackso\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\agjackso\AndroidStudioProjects\Jam2App3\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_bd540ab8f6d45f8c7c2dfdcbaea76822ed2e0cba.jar" />
+    </item>
+
+</items>

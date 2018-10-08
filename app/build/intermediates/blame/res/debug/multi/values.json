@@ -1,0 +1,1305 @@
+[
+    {
+        "outputFile": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 362,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endLine": 28,
+                    "endColumn": 19,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endLine": 29,
+                        "endColumn": 19,
+                        "endOffset": 830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 955
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 842,
+                        "endLine": 37,
+                        "endColumn": 19,
+                        "endOffset": 1028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 960,
+                    "endColumn": 53,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 7,
+                        "startOffset": 116,
+                        "endColumn": 56,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 51,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 7,
+                        "startOffset": 60,
+                        "endColumn": 54,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1066,
+                    "endColumn": 57,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 55,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endColumn": 52,
+                    "endOffset": 1228
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1233,
+                    "endColumn": 44,
+                    "endOffset": 1273
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 44,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1278,
+                    "endColumn": 34,
+                    "endOffset": 1308
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 34,
+                        "endOffset": 370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1313,
+                    "endColumn": 34,
+                    "endOffset": 1343
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endColumn": 34,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1348,
+                    "endColumn": 34,
+                    "endOffset": 1378
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 34,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1383,
+                    "endColumn": 34,
+                    "endOffset": 1413
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 34,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1418,
+                    "endColumn": 34,
+                    "endOffset": 1448
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 34,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1453,
+                    "endColumn": 34,
+                    "endOffset": 1483
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 34,
+                        "endOffset": 547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1488,
+                    "endColumn": 34,
+                    "endOffset": 1518
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 552,
+                        "endColumn": 34,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1523,
+                    "endColumn": 34,
+                    "endOffset": 1553
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 587,
+                        "endColumn": 34,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1558,
+                    "endColumn": 52,
+                    "endOffset": 1606
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 52,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1611,
+                    "endColumn": 40,
+                    "endOffset": 1647
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 40,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1652,
+                    "endColumn": 39,
+                    "endOffset": 1687
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 39,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1692,
+                    "endColumn": 43,
+                    "endOffset": 1731
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 43,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1736,
+                    "endColumn": 39,
+                    "endOffset": 1771
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 622,
+                        "endColumn": 39,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1776,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 2067
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2072,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 2227
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 684
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 362,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endLine": 28,
+                    "endColumn": 19,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endLine": 29,
+                        "endColumn": 19,
+                        "endOffset": 830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 955
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 842,
+                        "endLine": 37,
+                        "endColumn": 19,
+                        "endOffset": 1028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 960,
+                    "endColumn": 53,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 7,
+                        "startOffset": 116,
+                        "endColumn": 56,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 51,
+                    "endOffset": 1061
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 7,
+                        "startOffset": 60,
+                        "endColumn": 54,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1066,
+                    "endColumn": 57,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 55,
+                    "endOffset": 1175
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1180,
+                    "endColumn": 52,
+                    "endOffset": 1228
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1233,
+                    "endColumn": 44,
+                    "endOffset": 1273
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 44,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1278,
+                    "endColumn": 34,
+                    "endOffset": 1308
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 34,
+                        "endOffset": 370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1313,
+                    "endColumn": 34,
+                    "endOffset": 1343
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endColumn": 34,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1348,
+                    "endColumn": 34,
+                    "endOffset": 1378
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 34,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1383,
+                    "endColumn": 34,
+                    "endOffset": 1413
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 34,
+                        "endOffset": 477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1418,
+                    "endColumn": 34,
+                    "endOffset": 1448
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 482,
+                        "endColumn": 34,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1453,
+                    "endColumn": 34,
+                    "endOffset": 1483
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 34,
+                        "endOffset": 547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1488,
+                    "endColumn": 34,
+                    "endOffset": 1518
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 552,
+                        "endColumn": 34,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1523,
+                    "endColumn": 34,
+                    "endOffset": 1553
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 587,
+                        "endColumn": 34,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1558,
+                    "endColumn": 52,
+                    "endOffset": 1606
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 52,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1611,
+                    "endColumn": 40,
+                    "endOffset": 1647
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 257,
+                        "endColumn": 40,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1652,
+                    "endColumn": 39,
+                    "endOffset": 1687
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 39,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1692,
+                    "endColumn": 43,
+                    "endOffset": 1731
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 212,
+                        "endColumn": 43,
+                        "endOffset": 251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1736,
+                    "endColumn": 39,
+                    "endOffset": 1771
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 622,
+                        "endColumn": 39,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1776,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 2067
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2072,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 2227
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 684
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 362,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endLine": 21,
+                    "endColumn": 19,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endLine": 28,
+                    "endColumn": 19,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endLine": 35,
+                    "endColumn": 19,
+                    "endOffset": 969
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\array.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 974,
+                    "endColumn": 53,
+                    "endOffset": 1023
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1028,
+                    "endColumn": 51,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 57,
+                    "endOffset": 1133
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1138,
+                    "endColumn": 55,
+                    "endOffset": 1189
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1194,
+                    "endColumn": 52,
+                    "endOffset": 1242
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1247,
+                    "endColumn": 44,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1292,
+                    "endColumn": 34,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endColumn": 34,
+                    "endOffset": 1357
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1362,
+                    "endColumn": 34,
+                    "endOffset": 1392
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1397,
+                    "endColumn": 34,
+                    "endOffset": 1427
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 1432,
+                    "endColumn": 34,
+                    "endOffset": 1462
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1467,
+                    "endColumn": 34,
+                    "endOffset": 1497
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1502,
+                    "endColumn": 34,
+                    "endOffset": 1532
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1537,
+                    "endColumn": 34,
+                    "endOffset": 1567
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1572,
+                    "endColumn": 52,
+                    "endOffset": 1620
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1625,
+                    "endColumn": 40,
+                    "endOffset": 1661
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1666,
+                    "endColumn": 39,
+                    "endOffset": 1701
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1706,
+                    "endColumn": 43,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endColumn": 39,
+                    "endOffset": 1785
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1790,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 1873
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1878,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 1945
+                },
+                "from": {
+                    "file": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

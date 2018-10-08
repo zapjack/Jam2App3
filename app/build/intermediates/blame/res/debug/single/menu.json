@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App3\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\agjackso\\AndroidStudioProjects\\Jam2App1\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

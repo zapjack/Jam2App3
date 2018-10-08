@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference android:title="Reference Tone" android:defaultValue="true" android:summary="Play root note before each tone sequence" android:key="REFERENCE_TONE"/>
+    <ListPreference android:key="NUM_TO_PRESENT" 
+        android:defaultValue="3" android:summary="Number of tones to play in each sequence" 
+        android:entryValues="@array/numPresentedValues" android:entries="@array/numPresented" 
+        android:title="Number of tones"/>
+    
+
+</PreferenceScreen>

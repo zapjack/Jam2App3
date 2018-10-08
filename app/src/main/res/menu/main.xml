@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<!--      <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_settings"/>
+-->
+    <item android:id="@+id/reset" 
+        android:title="Reset"
+        android:titleCondensed="Reset"
+        android:showAsAction="ifRoom" 
+        android:icon="@drawable/dark_content_new"/>
+    <item android:id="@+id/help" 
+        android:title="Help" 
+        android:icon="@drawable/dark_action_help" 
+        android:showAsAction="ifRoom" 
+        android:titleCondensed="Help"></item>
+    <item android:id="@+id/settings" 
+        android:icon="@drawable/dark_action_settings"
+        android:showAsAction="ifRoom"  
+        android:titleCondensed="Settings" 
+        android:title="Settings"></item>
+    
+    
+
+</menu>

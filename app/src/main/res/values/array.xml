@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dtones">
+        <item >d4.mp3</item>
+        <item >e4.mp3</item>
+        <item >fsharp4.mp3</item>
+        <item >g4.mp3</item>
+        <item >a4.mp3</item>
+        <item >b4.mp3</item>
+        <item >csharp4.mp3</item>
+        <item >d5.mp3</item>
+    </string-array>
+    <string-array name="dlabels">
+        <item >1\n\nD</item>
+        <item >2\n\nE</item>
+        <item >3\n\nf</item>
+        <item >4\n\nG</item>
+        <item >5\n\nA</item>
+        <item >6\n\nB</item>
+        <item >7\n\nc</item>
+        <item >8\n\nD</item>
+    </string-array>
+    
+    <string-array name="numPresented">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+    </string-array>
+    
+    <string-array name="numPresentedValues">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+    </string-array>
+    
+</resources>
